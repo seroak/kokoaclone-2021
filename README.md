@@ -1,3 +1,3 @@
 # koko Clone 2021 Update
 
-CSS hot so much beeter!
+Html $ CSS are so mush fun!
